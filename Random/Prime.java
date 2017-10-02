@@ -27,4 +27,11 @@ public class Prime {
         }
         return list;
     }
+
+    /*  Additional notes
+        Please see:
+        1) https://en.wikipedia.org/wiki/Trial_division
+        2) https://en.wikipedia.org/wiki/Prime_number
+        3) https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+    */
 }
